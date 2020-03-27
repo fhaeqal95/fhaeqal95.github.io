@@ -1,0 +1,210 @@
+body {
+    margin: 0;
+}
+p {
+    margin: 0;
+    display: inline;
+}
+
+.container {
+    width: 100%;
+    height: 635px;
+    position: relative;
+}
+.about-container {
+    width: 100%;
+    height: 550px;
+    position: relative;
+}
+.skills-container {
+    width: 100%;
+    height: 630px;
+    position: relative;
+    font-family: 'Mukta Mahee', sans-serif;
+    color: #676767;
+}
+.col-right {
+    float: right;
+    margin-top: 25px;
+    margin-right: 70px;
+}
+.col-left {
+    float: left;
+    margin-top: 250px;
+    margin-left: 56px;
+    color: #676767;
+}
+.col-left h3 {
+   font-weight: bold;
+   font-size: 68px;
+   margin-bottom: 0;
+   font-family: 'Mukta Mahee', sans-serif;
+}
+.col-left p {
+    font-weight: 200;
+    margin-top: 0;
+    font-size: 36px;
+    margin-bottom: 0;
+    font-family: 'Mukta Mahee', sans-serif;
+}
+.col-logo {
+    display: flex;    
+    margin-top: 93px;
+    justify-content: center;
+}
+.col-logo p {
+    text-align: center;
+    display: block;
+    font-family: 'Mukta Mahee', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: #686868;
+}
+.col-center {
+    text-align: center;
+    font-family: 'Sunflower', serif;
+    margin-top: 87px;
+    font-size: 30px;
+    color: #000000;
+}
+.col-center h4 {
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.col-center p {
+    font-weight: 300;
+}
+.col-btn {
+    margin-left: 56px;
+    bottom: 0;
+    position: absolute;
+    margin-bottom: 33px;
+}
+.logo-about {
+    margin-right: 90px;
+    margin-left: 90px;
+    text-align: center;
+}
+.row {
+    font-size: 22px;
+    padding-left: 100px;
+    font-weight: 500;
+    font-family: 'Sunflower', serif;
+    color: #00B94A;
+}
+#home-line {
+    width: 99.50%;
+    position: absolute;
+    bottom: 0;
+    border: 3px solid #00B94A;
+}
+#about-line {
+    width: 50%;
+    position: absolute;
+    bottom: 0;
+    border: 3px solid #00B94A;
+}
+#skills-line {
+    width: 50%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border: 3px solid #00B94A;
+}
+#line-name {
+    width: 340px;
+    border: 2px solid #8D8D8D;
+    margin-top: -25px;
+}
+#img-home {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-right: 47px;
+}
+#btn-arrow {
+    position: absolute;
+    width: 17px;
+    height: 18px;
+    margin-top: 4px;
+    margin-left: 25px;
+}
+.button {
+    position: relative;
+    font-family: 'Mukta Mahee', sans-serif;
+    font-weight: 600;
+    border: none;
+    display: inline-block;
+    text-decoration: none;
+    height: 41px;
+    width: 254px;
+    margin: 4px 2px;
+    cursor: pointer;    
+    bottom: 0;
+    left: 0;
+    margin-top: -50px;
+}
+.btn-download {
+    font-size: 16px;
+    background-color: #00B94A;
+    color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 4px 0px 4px rgba(0, 0, 0, 0.25);
+}
+.btn-view {
+    position: relative;
+    text-align: center;
+    font-size: 16px;
+    background-color: #FFFFFF;
+    color: #00B94A;
+    margin-left: 35px;
+    box-shadow: 4px 0px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.skill-header {
+    font-size: 48px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.skill-header h3 {
+    margin: 0;
+}
+.skill-logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.logo-child {
+    flex: 1;
+    text-align: center;
+}
+.skill-logo p {
+    text-align: center;
+    display: block;
+    font-family: 'Mukta Mahee', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    color: #686868;
+}
+.logo-child-2 {
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.logo-child-2 p{
+    text-align: center;
+    display: block;
+    font-family: 'Mukta Mahee', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    color: #686868;
+}
+.logo-child-2 img{
+    width: 50px;
+    height: 50px;
+}
+.logo-child img {
+    width: 50px;
+    height: 50px;
+}
